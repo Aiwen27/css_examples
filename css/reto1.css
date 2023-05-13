@@ -1,0 +1,60 @@
+header{
+    text-align: center;
+    font-size: 70px;
+    color: #B69814;
+}
+
+h1{
+    color: #B65414;
+}
+
+.fondo1 {
+        background-image: url(../imagenes/noche.jpg);
+        background-size: cover;
+
+    
+        
+    }
+
+
+.text{
+    text-align: left;
+    font-size: 25px;
+    color: #fff;
+    
+}
+
+.fondo3{
+        background-color: aqua;
+    }
+
+.button{
+    background-color: #A01711;
+    border: none;
+    color: #fff;
+    font-size: 25px;
+    padding: 8px 40px;
+    text-decoration: none;
+    margin-top: 40px;
+    display: inline-block;
+
+}
+
+.button:hover{
+    color: #000000;
+    background-color: #B69814;
+    }
+
+.col-sm-6{
+    padding-bottom: 50px;
+}
+
+footer{
+    background-color: #060225;
+    padding: 30px 60px;
+    margin-top: 25px;
+    text-align: center;
+    color: #fff;
+
+}
+

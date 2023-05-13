@@ -1,0 +1,58 @@
+.banner{
+    display: flex;
+    align-items: center;
+    position: relative;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-image: url('../imagenes/reto5.jpg');
+    background-blend-mode: multiply;
+    padding: 200px 0;
+
+}
+
+
+
+.titulo{
+    color: #fff;
+    display: flex;
+    justify-content: end; 
+    font-family: 'Raleway', sans-serif;
+}
+
+.text{
+    color: #fff;
+    display: flex;
+    justify-content: end; 
+    font-family: 'Raleway', sans-serif;
+    width: 30%;
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: 0;
+    text-align: right;
+}
+
+.align {
+    display: flex;
+    justify-content: end;
+}
+
+.button{
+    background-color: #AD3B09;
+    border: none;
+    color: #fff;
+    font-size: 20px;
+    padding: 8px 20px;
+    text-decoration: none;
+    margin-top: 15px;
+    display: inline-block;
+    margin-left: 10px;
+  
+
+}
+
+.button:hover{
+    color: #000000;
+    background-color: #B69814;
+    }
+

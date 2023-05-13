@@ -1,0 +1,47 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+header{
+    padding: 20px 100px;
+}
+
+main{
+    padding: 0px 100px 20px;
+}
+
+.text1{
+    margin-top: 25px;
+}
+
+a{
+    background-color: #5a14b6;
+    border: none;
+    color: #fff;
+    font-size: 15px;
+    padding: 10px 50px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.margin-b {
+    margin-bottom: 20px;
+}
+
+.pad-r {
+   padding-right: 20px;
+}
+
+.container p {
+    padding: 10px 0px 20px;
+}
+
+footer{
+    background-color: #2F2D30;
+    padding: 30px 60px;
+    margin-top: 25px;
+    text-align: center;
+    color: #fff;
+
+}
